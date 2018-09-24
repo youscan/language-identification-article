@@ -1,0 +1,5 @@
+Flask
+flask-restplus==0.10.1
+cysignals
+pyfasttext
+pycld2
